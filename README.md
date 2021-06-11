@@ -1,4 +1,4 @@
-# Programowanie reaktywne - kolokwium 2 - Grupa 2
+# Programowanie reaktywne - kolokwium 2 - Grupa 3
 
 
 ## 1. Stworzenie fork'a  - 1 pkt
